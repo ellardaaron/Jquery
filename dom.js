@@ -4,6 +4,8 @@
         item.innerText = 'Milk and bread';
         list.appendChild(item);
     }
+
+    
     
     $('#button-id').click(function(){
         let item = '<li class="red"> Apples and Oranges</li>';
